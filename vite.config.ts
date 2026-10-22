@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/IntelliQue/', // 👈 ADD THIS EXACT LINE HERE
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
