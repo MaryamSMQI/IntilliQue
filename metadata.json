@@ -1,0 +1,6 @@
+{
+  "name": "IntelliCue - Dementia Task & Safety Guardian",
+  "description": "AI-powered vision assistant and nurse intervention dashboard to track daily tasks like medication, detect interruptions, and keep dementia residents safe without room intrusions.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
